@@ -25,31 +25,32 @@ The deliverable will be to create a folder called **intro-concepts** under your 
 Many of the winners are Sillican Valey style enterprenurial technology companies that are invading established indsutry structures. Many more industies is going to be destroyed by software with the new world beating Silican Valley companies. 
 He was correct because Silican Valley is getting large and a lot of small companies have went bankrupt. 
 * ~12:32 - What was the ethical dilemma Facebook created in 2012 and how did they defend their actions?
-  * answer here
+  * hundreds and thousands of fb users unknowingly participating may have felt either happy or more depressed than usual,as they saw either more of their friends posting.
 * ~15:20 -  In 2013, what was the ethical dilemma introduced by Zenefits and what were they avoiding?
-  * answer here
+  * In order to build their software, Zenefits had to be certified by regulatory board. They had to sit through 52 hours of studying insurance material. The CEO created a script to complete the materials automatically. s
 * ~17:01 - In 2014, what was the ethical dilemma introduced by Uber in Portland Oregon and who were they deceiving?
-  * answer here
+  * They were deceiving Portland by giving the regulators different view of uber, so they do not know when they enter the portland markets.
 * ~19:07 - In 2015, what was the ethical dilemma introduced by Google Photos mis-labeling and how did AI contribute to it?
-  * answer here
+  * The google AI identified a black man as a gorilla. 
 * ~22:43 - In 2016, what was the ethical dilemma introduced by Tesla?
-  * answer here
+  * Tesla's car which wad traffic avoiding cruise control and steering assists had been marketed as a "autopilot." As a result, drivers think that they can have their attention drift. A driver thought the car was driving itself and was killed when it hit a semi-track. 
 * ~25:43 - In 2017, what was the ethical dilemma presented to Facebook?
-  * answer here
+  * In Myenmar, Facebook is basically the internet there and the fb messages were used to coordinate a genocide. What degree is Facebook's responsibiliy? They say that they only audit what they say and they are not responsible of how their platform is used. Their responsibility is ambigious because they can't monitor each person's post.
 * ~30:10 - In 2018, what was the ethical dilemma presented to Joyent (the speaker's company)?
-  * answer here
+  * There was a shooting at Pitsburg and the shooter was on Gab. The gab was a Joyent costumer and they were suspended.
 * ~30:31 - What is Bryan's thoughts relating to 1st amendment rights and the right to be a customer of a product?
-  * answer here
+  * Gab should have the right to be on their platform. However, if someone behaves poorly, you have the right to suspend them. 
 * ~32:31 - What is the ethical dilemma introduced by Boeing and the 737 MAX software and what were two serious results?
-  * answer here
-* ~37:35 - What is right for software is not necessarily right for what?
-  * answer here
+  * Boeng needed react quickly to the airbus developed new efficient plane. They wanted to develop new 737 that did not require any recertification. The problem is there was a change in how the engine moved a little differently. 
+The mcast detects high angles and automatically adjust the way it flew before. They didn't tell this to the pilots and two planes crashed. They didn't think about safety and they just wanted to finish the new airplane. 
+* 37:35 - What is right for software is not necessarily right for what?
+  * Society. 
 * ~38:59 - The 2018 ACM Software Ethics is now based on what?
-  * answer here
+  * Principles based.
 * ~39:44 - Instead of seeking ethics answers, what should we be doing?
-  * answer here
+  * Seek to ask tough questions that make them feel uncomfortable. 
 * ~41:14 - What is Andreessen's Corollary?
-  * answer here
+  * Organizations that support honest discussion, attract like-minded individuals who consider ethical consequences and brace ourselves for future dilemmas. 
 
 ## Presentation Two
 

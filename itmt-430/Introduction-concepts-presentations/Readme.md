@@ -57,30 +57,33 @@ The mcast detects high angles and automatically adjust the way it flew before. T
 [Jessica Kerr - Principles of Collaborative Automation](https://www.youtube.com/watch?v=JY4HPhXuWFg&feature=emb_logo "Jessica Kerr - Principles of Collaborative Automation")
 
 * ~1:04 Where did Ms. Kerr's 4 Principles come out of?
-  * answer here
+  * Resilience engineering community and studies of collaberation between humans and machines.
 * ~3:15 What is the difference between developers and everyone else mentioned?
-  * answer here
+  * Developers can change the software if it is hard to operate. 
 * ~4:15 What is "symmathesy?"
-  * answer here
+  * Learning system made of learning parts. We learn from each other and we learn from the software. THe software also learn from us. We need all the tools. It is based on mutual learning.
 * ~5:57 List and briefly describe the 1st principle of Joint Activity?
-  * answer here
+  * Basic Impace: we are working towards a common goal and our tasks are interrelated. 
 * ~7:26 What is collaboration?
-  * answer here
+  * It is about getting help before something crashes. Give details and help the software.
 * ~8:44 What is the difference between, "rely on" vs. "work with"?
-  * answer here
+  * you don't rely on your team workers 24/7. We work with each other your team members and the software. 
 * ~9:00 What is [Apache Kafka](http://kafka.apache.org/ "Apache Kafka") and what does it do?
-  * answer here
+  * It is open source and streaming platform capable of handling trillions of events a day. 
 * ~10:25 List and briefly describe the 2nd principle of Joint Activity?
-  * answer here
+  * Mutually Predictable: people must be understand their state and action and know what is about to happen. They must direct and explain their plans.
 * ~15:10 List and briefly describe the 3rd principle of Joint Activity?
-  * answer here
+  * Mutual Directabiliy: once you can predict each other, you can change what each other going to do by discussing the plan. The plan can be changed if there is a better plan. Therefore, human is in charge.
 * ~17:45 What is the strange property of negotiations?
-  * answer here
+  * Party with less flexibility have more power. People are flexible because there are many ways we can do it, but computers are not flexible. 
 * ~19:25 List and briefly describe the 4th principle of Joint Activity
-  * answer here
+  * Common Ground: Everyone knows the basic standard of the code or the work. Be careful with what you are doing.   
 * ~22:36 Increased complexity can be balanced by what?
-  * answer here
+  * can be balanced by increased software. 
 * ~22:48 Success begets what and why?
-  * answer here
+  * complexity begats success because it adds reliability and get codes out of people's head. 
 * ~24:40 Briefly describe the 4 ironies of automation.
-  * answer here
+  * 1. Smarter the automation, harder it is to operate. It takes more feedback, more experience and more cretive problem solving.
+2. Exceptions are the rules. Start from the exceptional rule. Worst case start with a human and gradually increase the autonamation. 
+3. Automating the easy stuff makes the harder stuff harder. Specialization can help to deal with the hard stuff regularily.
+4. The less flexible party has more power to get its way. Keep the human informed and in charge.

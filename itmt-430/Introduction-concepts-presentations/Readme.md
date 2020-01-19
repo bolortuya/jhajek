@@ -85,5 +85,5 @@ The mcast detects high angles and automatically adjust the way it flew before. T
 * ~24:40 Briefly describe the 4 ironies of automation.
   * 1. Smarter the automation, harder it is to operate. It takes more feedback, more experience and more cretive problem solving.
   * 2. Exceptions are the rules. Start from the exceptional rule. Worst case start with a human and gradually increase the autonamation. 
-* 3. Automating the easy stuff makes the harder stuff harder. Specialization can help to deal with the hard stuff regularily.
-* 4. The less flexible party has more power to get its way. Keep the human informed and in charge.
+  * 3. Automating the easy stuff makes the harder stuff harder. Specialization can help to deal with the hard stuff regularily.
+  * 4. The less flexible party has more power to get its way. Keep the human informed and in charge.

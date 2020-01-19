@@ -9,19 +9,21 @@ The deliverable will be to create a folder called **intro-concepts** under your 
 [Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering](https://www.youtube.com/watch?v=0wtvQZijPzg&feature=youtu.be "Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering")
 
 * ~0:45 - Who is the speaker and what is his job at the time of the presentation?
-  * answer here
+  * The speaker is Bryan Cantrill. His job is ethics in software engineering. 
 * ~2:58 - What is the first principle of Ethics in Software Engineering ~1997
-  * answer here
+  * Product: software is well documented and satisfied user's approval.
 * ~5:20 - What is rule 6.10 of Ethics in Software Engineering ~1997
-  * answer here
+  * Obey all laws governing their work, insofar as such obedience is consistent with the public health, safety, and health.
 * ~6:45 - With the rise of what in the late 1990s did the first real foreshocks of ethical dilemmas come?
-  * answer here
+  * Obey all laws governing their work, insofar as such obedience is consistent with the public health, safety, and health. s
 * ~7:03 - Which company in 1999 was one of the first to bring an ethical "grey area"?
-  * answer here
+  * napster
 * ~9:20 - In 2003 with the launch of Friendster, the speaker mentions that "Social Networking was born crooked," why did he conclude that?
-  * answer here
+  * Because Johnathan wanted only people on profile and to meet good looking girls. 
 * ~10:08 - In 2011, what was Mark Andreessen's "prophesy"? And was he correct?
-  * answer here
+  * He expected more and more major businesses and industries are being run on software and delivered as online services-from movies to agriculture to national defense.
+Many of the winners are Sillican Valey style enterprenurial technology companies that are invading established indsutry structures. Many more industies is going to be destroyed by software with the new world beating Silican Valley companies. 
+He was correct because Silican Valley is getting large and a lot of small companies have went bankrupt. 
 * ~12:32 - What was the ethical dilemma Facebook created in 2012 and how did they defend their actions?
   * answer here
 * ~15:20 -  In 2013, what was the ethical dilemma introduced by Zenefits and what were they avoiding?
